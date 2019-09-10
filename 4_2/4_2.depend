@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516359301 source:d:\arevy\fmi\anul 2\sem 1\gc\temegc\4_2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<tgmath.h>
+

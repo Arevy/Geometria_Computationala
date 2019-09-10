@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511512120 source:d:\arevy\cod\gc3\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1511512120 source:d:\arevy\fmi\anul 2\sem 1\gc\temegc\gc3\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
